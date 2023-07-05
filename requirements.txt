@@ -1,3 +1,8 @@
 torch
 black
 
+black
+pipreqs
+numpy
+tqdm
+python-decouple
